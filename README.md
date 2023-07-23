@@ -1,2 +1,2 @@
 # Decision_Trees
-This repository contains my assignment on Decision Trees, completed as part of my data science course.
+This repository contains my assignment on Decision Trees, completed as part of my data science course.The assignment explores the fundamentals of decision trees, including implementation, tree visualization, and analysis of their predictive capabilities. Through this project, I gained practical insights into decision tree algorithms and their applications in data analysis and machine learning."
